@@ -4,7 +4,7 @@ int main(int argc, char *argv[]) {
 
   // output member names
 
-  printf("Lee Akinobu (ri@nitech.ac.jp)\n");
+  printf("To be punctual is one of our social duties.\n");
   
   return 0;
 }
