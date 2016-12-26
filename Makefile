@@ -1,7 +1,7 @@
-all: report-check
+all: proverbs
 
-report-check: report-check.c
-	gcc -o report-check report-check.c
+proverbs: proverbs.c
+	gcc -o proverbs proverbs.c
 
 clean:
-	rm -f report-check
+	rm -f proverbs
