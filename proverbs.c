@@ -7,6 +7,7 @@ int main(int argc, char *argv[]) {
   printf("There is more to life than increasing its speed.\n");
   printf("Rome was not built in a day.\n");
   printf("If you can dream it, you can do it.\n");
+  printf("Ask, and it will be given to you.\n");
 
   return 0;
 }
