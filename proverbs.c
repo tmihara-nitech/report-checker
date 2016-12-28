@@ -9,6 +9,7 @@ int main(int argc, char *argv[]) {
   printf("If you can dream it, you can do it.\n");
   printf("Ask, and it will be given to you.\n");
   printf("A goal without a plan is just a wish..\n");
+  printf("If you can dream it, you can do it.\n");
 
   return 0;
 }
